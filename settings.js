@@ -32,15 +32,15 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
-global.sessionName = 'session'
+global.owner = ['94767712875'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94767712875'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['767712875'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '(◕⃝⃪⃪🍎ₛͥₑͣᵪᷟ𝚈🧸|දඟයා|💗🍃' // Your name ඔබේ නම 
+global.botnma = '💃𝗤𝘄𝗲𝗲𝗻 𝗗𝗮𝗴𝗮𝘆𝗮 𝗕𝗼𝘁💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '(◕⃝⃪⃪🍎ₛͥₑͣᵪᷟ𝚈🧸|දඟයා|💗🍃' //ownernama,ownername
+global.packname = 'Qween Dagaya Sticker' // Sticker package name 
+global.author = '(◕⃝⃪⃪🍎ₛͥₑͣᵪᷟ𝚈🧸|දඟයා|💗🍃' // Sticker Autor name 
+global.sessionName = 'Qw'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
@@ -60,7 +60,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 🧸❤️𝙶𝙴𝙽𝙰𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚆𝙴𝙴𝙽 𝙳𝙰𝙶𝙰𝚈𝙰❤️🧸`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
